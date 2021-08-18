@@ -8,4 +8,3 @@
 
 You can find more about me and my projects on [my website](https://pw.is), [kiva.org](https://www.kiva.org/lender/peterw) or [instagram](https://www.instagram.com/peterwilfahrt/).
 
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=p-w)](https://pw.is/)
