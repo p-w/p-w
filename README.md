@@ -1,5 +1,5 @@
 
-### Hi there, I'm Peter!
+<h1 align="center">Hi, I'm Peter 👋</h1>
 
 - :computer: You can find my professional profile on [LinkedIn](https://www.linkedin.com/in/pwilfahrt/)
 - :rocket: You can find my most popular project on [dockerhub](https://hub.docker.com/r/wilfahrt/gatling-webserver) ![Docker Pulls](https://img.shields.io/docker/pulls/wilfahrt/gatling-webserver)
