@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Peter 👋</h1>
+<div align="center">
+  <a href="https://pw.is/" target="_blank"><img src="intro.gif" alt="👋 Hi there! I'm (p(eter|-w)|https://pw.is)" title="👋 Hi there! I'm (p(eter|-w)|https://pw.is)"/></a>
+</div>
+
+<h1 align="center">👋 Hi there! I'm Peter.</h1>
 <h3 align="center">Digital Security Evangelist · Open Source Software Enthusiast</h3>
 
 <p align="center">
