@@ -13,7 +13,7 @@
 
 
 - :computer: You can find my professional profile on [LinkedIn](https://www.linkedin.com/in/pwilfahrt/)
-- :rocket: You can find my most popular project on [dockerhub](https://hub.docker.com/r/wilfahrt/gatling-webserver) ![Docker Pulls]()
+- :rocket: You can find my most popular project on [dockerhub](https://hub.docker.com/r/wilfahrt/gatling-webserver)
 - 🔭 I’m currently working on improving [digital security](https://www.digitale-sicherheit.org/)
 - 🌱 I’m ~~currently~~ always learning new stuff
 - :man_technologist: I'm crashing some maschines on [](https://tryhackme.com/p/pw1)
