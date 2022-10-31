@@ -30,7 +30,7 @@ You can find more about me and my projects on [my website](https://pw.is), [kiva
   <tr>
     <td align="center">
       <a href="https://www.digitale-sicherheit.org/" target="_blank">
-        <img src="https://www.digitale-sicherheit.org/img/Bundesverband_Digitale_Sicherheit_Icon.png"
+        <img src="https://www.digitale-sicherheit.org/img/android-chrome-512x512.png"
              alt="Bundesverband Digitale Sicherheit e.V."
              title="Bundesverband Digitale Sicherheit e.V."
              height="120"
