@@ -59,7 +59,7 @@ You can find more about me and my projects on [my website](https://pw.is), [kiva
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://smile.amazon.de/dp/B071HFVY7J?&tag=pwis09-21">
+      <a href="https://www.amazon.de/dp/B071HFVY7J?&tag=pwis09-21">
           <img src="https://m.media-amazon.com/images/I/61SS2CzBaNL.jpg" width="120" alt="Cracking eCommerce for fun and profit" />
           <br />
           <sub><b>Cracking eCommerce for fun and profit</b></sub>
@@ -68,7 +68,7 @@ You can find more about me and my projects on [my website](https://pw.is), [kiva
       <sub>Peter Wilfahrt</sub>
     </td>
     <td align="center">
-      <a href="https://smile.amazon.de/dp/1657204545?&tag=pwis09-21">
+      <a href="https://www.amazon.de/dp/1657204545?&tag=pwis09-21">
           <img src="https://images-na.ssl-images-amazon.com/images/I/51VkE2UWCNL._SX322_BO1,204,203,200_.jpg" width="120" alt="Chasing Digital Excellence" />
           <br />
           <sub><b>Chasing Digital Excellence</b></sub>
@@ -77,7 +77,7 @@ You can find more about me and my projects on [my website](https://pw.is), [kiva
       <sub>Peter Wilfahrt</sub>
     </td>
     <td align="center">
-      <a href="https://smile.amazon.de/dp/1521135452?&tag=pwis09-21">
+      <a href="https://www.amazon.de/dp/1521135452?&tag=pwis09-21">
           <img src="https://images-na.ssl-images-amazon.com/images/I/51OV4nPc5XL._SX331_BO1,204,203,200_.jpg" width="120" alt="Cracking eCommerce for fun and profit" />
           <br />
           <sub><b>Cracking eCommerce for fun and profit</b></sub>
@@ -87,3 +87,5 @@ You can find more about me and my projects on [my website](https://pw.is), [kiva
     </td>
   </tr>
 </table>
+
+<!-- SYSTEM: HOST or HOSTNAME, USER or USERNAME, PASS or PASSWORD, DATABASE, CONTAINER, AUTH, AUTH_KEY, API_KEY, PWD, SHELL, and LANG -->
