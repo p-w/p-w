@@ -88,4 +88,4 @@ You can find more about me and my projects on [my website](https://pw.is), [kiva
   </tr>
 </table>
 
-<!-- SYSTEM: HOST or HOSTNAME, USER or USERNAME, PASS or PASSWORD, DATABASE, CONTAINER, AUTH, AUTH_KEY, API_KEY, PWD, SHELL, and LANG -->
+<small>&lt;!-- SYSTEM: HOST or HOSTNAME, USER or USERNAME, PASS or PASSWORD, DATABASE, CONTAINER, AUTH, AUTH_KEY, API_KEY, PWD, SHELL, and LANG --&gt;</small>
