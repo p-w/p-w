@@ -92,6 +92,9 @@ You can find more about me and my projects on [my website](https://pw.is), [kiva
 
 | Date | Article |
 | ---- | ------- |
+| 2026-11-11 | [Das iPhone-Backup als Beweisquelle](https://pw.is/iphone-backup-forensik/) |
+| 2026-11-09 | [Punkte ohne Wissen: wie eine Lernplattform ihre eigene Bestenliste nicht schützt](https://pw.is/lernplattform-anti-automation-disclosure/) |
+| 2026-11-09 | [VS-NfD im Unternehmen: was der Stempel auf deinem Auftrag bedeutet](https://pw.is/vs-nfd-grundlagen/) |
 | 2026-11-08 | [Ein Token, der überall funktioniert: eine Mobilitäts-App im Test](https://pw.is/mobility-app-token-replay-disclosure/) |
 | 2026-11-07 | [Reihenweise gemeldet: eine Runde Sicherheitsreviews in Open-Source-Software](https://pw.is/open-source-disclosure-runde/) |
 | 2026-11-06 | [Schema.org per KI: strukturierte Daten automatisch erzeugen, in der EU oder auf eigener Hardware](https://pw.is/schema-org-per-ki/) |
