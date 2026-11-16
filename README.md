@@ -92,6 +92,9 @@ You can find more about me and my projects on [my website](https://pw.is), [kiva
 
 | Date | Article |
 | ---- | ------- |
+| 2026-11-16 | [Selbstakkreditierung für VS-NfD: was du bestätigst und wer haftet](https://pw.is/vs-nfd-selbstakkreditierung/) |
+| 2026-11-13 | [Vibe Coding mit Sicherheitsnetz: eine CI/CD-Pipeline, der ich mehr traue als der KI](https://pw.is/vibe-coding-cicd-sicherheit/) |
+| 2026-11-12 | [Passkeys: Das Ende des Passworts im Checkout](https://pw.is/passkeys/) |
 | 2026-11-11 | [Das iPhone-Backup als Beweisquelle](https://pw.is/iphone-backup-forensik/) |
 | 2026-11-09 | [Punkte ohne Wissen: wie eine Lernplattform ihre eigene Bestenliste nicht schützt](https://pw.is/lernplattform-anti-automation-disclosure/) |
 | 2026-11-09 | [VS-NfD im Unternehmen: was der Stempel auf deinem Auftrag bedeutet](https://pw.is/vs-nfd-grundlagen/) |
