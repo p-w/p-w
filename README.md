@@ -92,6 +92,7 @@ You can find more about me and my projects on [my website](https://pw.is), [kiva
 
 | Date | Article |
 | ---- | ------- |
+| 2026-11-18 | [Apache NiFi im Onlineshop: Feeds, Warenwirtschaft und Einkauf in einem Datenfluss](https://pw.is/apache-nifi-onlineshop/) |
 | 2026-11-16 | [Selbstakkreditierung für VS-NfD: was du bestätigst und wer haftet](https://pw.is/vs-nfd-selbstakkreditierung/) |
 | 2026-11-13 | [Vibe Coding mit Sicherheitsnetz: eine CI/CD-Pipeline, der ich mehr traue als der KI](https://pw.is/vibe-coding-cicd-sicherheit/) |
 | 2026-11-12 | [Passkeys: Das Ende des Passworts im Checkout](https://pw.is/passkeys/) |
