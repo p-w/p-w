@@ -92,7 +92,9 @@ You can find more about me and my projects on [my website](https://pw.is), [kiva
 
 | Date | Article |
 | ---- | ------- |
+| 2026-11-19 | [Denial of Service über deine Business-Logik, nicht deine Bandbreite](https://pw.is/dos-business-logik/) |
 | 2026-11-18 | [Apache NiFi im Onlineshop: Feeds, Warenwirtschaft und Einkauf in einem Datenfluss](https://pw.is/apache-nifi-onlineshop/) |
+| 2026-11-18 | [sysdiagnose und Unified Logs: Was das iPhone über sich selbst protokolliert](https://pw.is/iphone-sysdiagnose-logs/) |
 | 2026-11-16 | [Selbstakkreditierung für VS-NfD: was du bestätigst und wer haftet](https://pw.is/vs-nfd-selbstakkreditierung/) |
 | 2026-11-13 | [Vibe Coding mit Sicherheitsnetz: eine CI/CD-Pipeline, der ich mehr traue als der KI](https://pw.is/vibe-coding-cicd-sicherheit/) |
 | 2026-11-12 | [Passkeys: Das Ende des Passworts im Checkout](https://pw.is/passkeys/) |
